@@ -1,3 +1,5 @@
-# THE LINEAR LUGIATO-LEFEVER EQUATION WITH FORCING AND NONZERO PERIODIC OR NONPERIODIC BOUNDARY CONDITIONS
+# Solving the Lugiato-Lefever equation
 
-Submitted to journal May 19, 2022
+I had the great pleasure of working with Dionyssis Mantzavinos on this project and I recieved the Undergraduate Research Award from the Mathematics Department at the University of Kansas for this work.
+
+This manuscript was submitted to journal May 19, 2022
